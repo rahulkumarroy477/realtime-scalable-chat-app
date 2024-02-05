@@ -1,6 +1,7 @@
 # Turborepo starter
 
 original repo visit : https://github.com/rahulkumarroy477/scalable-chat.git
+
 This is an official starter Turborepo.
 
 ## Using this example
@@ -11,6 +12,9 @@ Run the following command:
 npx create-turbo@latest
 ```
 
+# Demo gif
+
+![Demo gif for output](demo.gif)
 ## What's inside?
 
 This Turborepo includes the following packages/apps:
